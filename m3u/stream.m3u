@@ -1,0 +1,5 @@
+#EXTM3U 
+#EXTVLCOPT--http-reconnect=true 
+#EXTINF:-1,FOX
+#EXTVLCOPT:program=5515
+http://192.168.0.22:8001/1:0:1:158B:7E5:2:11A0000:0:0:0:
